@@ -2,7 +2,7 @@ header {
   font-family: "Helvetica";
   font-weight: bold;
   text-align: center;
-  border: 5px solid black;
+  border-bottom: 1px solid black;
 }
 
 article {
