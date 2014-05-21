@@ -27,3 +27,9 @@ h3 {
   font-family: "Helvetica";
   margin-top: -25px;
 }
+
+img {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
