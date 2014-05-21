@@ -41,8 +41,6 @@ img {
   font-size: large;
   border: 1px solid black;
   float: left;
-  margin: 5px;
-  position: relative;
 }
 
 #writing {
@@ -51,8 +49,7 @@ img {
   font-size: large;
   border: 1px solid black;
   float: right;
-  margin-left: 100px;
-  position: relative;
+  margin-left: 110px;
 }
 
 #blog {
