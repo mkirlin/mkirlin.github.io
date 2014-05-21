@@ -33,3 +33,15 @@ img {
   margin-right: 25%;
   width: 50%;
 }
+
+sidebar {
+  text-align: center;
+  height: 800px;
+  width: 15%;
+  background-color: white;
+  font-size: large;
+  display: inline-block;
+  border: 5px solid black;
+  float: left;
+  margin: 5px;
+}
