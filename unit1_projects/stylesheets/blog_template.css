@@ -50,7 +50,7 @@ img {
   background-color: white;
   font-size: large;
   border: 1px solid black;
-  float: right;
+  float: left;
   margin-right: 25%;
   position: relative;
 }
