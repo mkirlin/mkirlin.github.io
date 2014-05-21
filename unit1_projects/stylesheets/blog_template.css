@@ -34,7 +34,7 @@ img {
   width: 50%;
 }
 
-sidebar {
+#sidebar {
   text-align: center;
   width: 10%;
   background-color: white;
@@ -45,7 +45,7 @@ sidebar {
   margin: 5px;
 }
 
-writing {
+#writing {
   width: 50%;
   background-color: white;
   font-size: large;
