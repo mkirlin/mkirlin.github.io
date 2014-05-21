@@ -38,10 +38,9 @@ h3 {
   font-size: large;
   float: left;
   margin-top: 100px;
-  padding: -15px;
+  padding: -15px, -15px, -15px, 5px;
   background-color: #FFFFFF;
   border-radius: 25px;
-  text-align: justify;
 }
 
 .blog {
@@ -63,5 +62,4 @@ h3 {
 
 socnet_links a img {
   width: 25%;
-  text-align: none;
 }
