@@ -36,12 +36,21 @@ img {
 
 sidebar {
   text-align: center;
-  height: 800px;
-  width: 15%;
+  width: 10%;
   background-color: white;
   font-size: large;
   display: inline-block;
-  border: 5px solid black;
+  border: 1px solid black;
   float: left;
   margin: 5px;
+}
+
+writing {
+  width: 50%;
+  background-color: white;
+  font-size: large;
+  display: inline-block;
+  border: 1px solid black;
+  float: right;
+  margin-right: 25%;
 }
