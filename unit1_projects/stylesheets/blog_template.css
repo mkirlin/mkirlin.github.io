@@ -17,21 +17,15 @@ h2 {
   text-align: center;
 }
 
-p {
-  margin-left: 25%;
-  margin-right: 25%;
-  width: 50%;
+p, img {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 60%;
 } 
 
 h3 {
   font-family: "Helvetica";
   margin-top: -25px;
-}
-
-img {
-  margin-left: 25%;
-  margin-right: 25%;
-  width: 50%;
 }
 
 #sidebar {
@@ -52,7 +46,7 @@ img {
   float: right;
   margin-left: 5px;
   margin-top: 100px;
-  margin-bottom: 20px;
+  margin-bottom: 100px;
 }
 
 #blog {
