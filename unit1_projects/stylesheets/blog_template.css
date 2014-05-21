@@ -60,3 +60,7 @@ h3 {
 #first {
   margin-top: 100px;
 }
+
+socnet_links a img {
+  display: inline-block;
+}
