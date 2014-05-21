@@ -38,13 +38,16 @@ h3 {
   margin-top: 100px;
 }
 
-#blog {
+.blog {
   width: 80%;
   background-color: white;
   font-size: large;
   border: 1px solid black;
   float: right;
   margin-left: 5px;
+  margin-bottom: 30px;
+}
+
+#first {
   margin-top: 100px;
-  margin-bottom: 100px;
 }
