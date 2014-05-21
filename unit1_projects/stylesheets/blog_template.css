@@ -33,7 +33,6 @@ h3 {
 }
 
 #sidebar {
-  text-align: justify;
   width: 250px;
   background-color: white;
   font-size: large;
@@ -42,6 +41,7 @@ h3 {
   padding: -15px;
   background-color: #FFFFFF;
   border-radius: 25px;
+  text-align: justify;
 }
 
 .blog {
@@ -63,4 +63,5 @@ h3 {
 
 socnet_links a img {
   width: 25%;
+  text-align: none;
 }
