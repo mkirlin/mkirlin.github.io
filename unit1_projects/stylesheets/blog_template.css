@@ -36,7 +36,7 @@ img {
 
 #sidebar {
   text-align: center;
-  width: 10%;
+  width: 100px;
   background-color: white;
   font-size: large;
   border: 1px solid black;
@@ -50,8 +50,8 @@ img {
   background-color: white;
   font-size: large;
   border: 1px solid black;
-  float: left;
-  margin-right: 25%;
+  float: right;
+  margin-left: 100px;
   position: relative;
 }
 
