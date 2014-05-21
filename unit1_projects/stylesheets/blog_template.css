@@ -37,11 +37,10 @@ h3 {
   width: 250px;
   background-color: white;
   font-size: large;
-  border: 1px solid black;
   float: left;
   margin-top: 100px;
   padding: -15px;
-  background-color: #EFECE5;
+  background-color: #FFFFFF;
   border-radius: 25px;
 }
 
@@ -49,13 +48,12 @@ h3 {
   width: 60%;
   background-color: white;
   font-size: large;
-  border: 1px solid black;
   float: right;
   margin-left: 5px;
   margin-right: 300px;
   margin-bottom: 30px;
   padding-bottom: 15px;
-  background-color: #EFECE5;
+  background-color: #FFFFFF;
   border-radius: 25px;
 }
 
