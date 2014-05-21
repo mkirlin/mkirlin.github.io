@@ -43,6 +43,7 @@ img {
   border: 1px solid black;
   float: left;
   margin: 5px;
+  position: relative;
 }
 
 #writing {
@@ -53,6 +54,7 @@ img {
   border: 1px solid black;
   float: right;
   margin-right: 25%;
+  position: relative;
 }
 
 #blog {
