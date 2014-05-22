@@ -2,6 +2,18 @@ body {
 	background-color: #000066;
 }
 
+#header {
+	font-color: white;
+	text-align: center;
+}
+
 #article {
-	background_color: white;
+	background-color: white;
+	width: 50%;
+	height: 100%;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: 1px solid black;
+	border-radius: 25px;
+}
 }
