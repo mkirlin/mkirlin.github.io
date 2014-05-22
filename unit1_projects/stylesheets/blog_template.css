@@ -61,6 +61,15 @@ h3 {
   margin-top: 100px;
 }
 
-socnet_links a img {
+div#social_networks a img {
   width: 25%;
+}
+
+div#sidebar img {
+  border-radius: 25px;
+}
+
+#social_networks {
+  text-align: center;
+  margin: 5px;
 }
