@@ -10,7 +10,7 @@ body {
 	margin-right: 20%;
 }
 
-#article {
+.article {
 	background-color: white;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -23,4 +23,17 @@ body {
 
 h2 {
 	text-align: center;
+}
+
+a:link {
+	font-family: "Helvetica";
+	color: white;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: #80BEE8;
 }
