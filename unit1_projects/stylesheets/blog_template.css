@@ -62,7 +62,8 @@ h3 {
 }
 
 div#social_networks a img {
-  width: 25%;
+  width: 15%;
+  margin: 5px;
 }
 
 div#sidebar img {
@@ -71,5 +72,5 @@ div#sidebar img {
 
 #social_networks {
   text-align: center;
-  margin: 5px;
+  margin-top: -20px;
 }
