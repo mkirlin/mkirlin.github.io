@@ -29,7 +29,7 @@
 
     		<div class="blog" id="first">
                 <header>
-                    <h1>Positioning Elements on a Web Site</h1>
+                    <a href="https://mkirlin.github.io/unit1_projects/week2_technical_blog"><h1>Positioning Elements on a Web Site</h1></a>
                     <h3>22 May 2014</h3>
                 </header>
             
@@ -39,15 +39,15 @@
 
                         <p>Every single element on a web page is a block. A standard, default web page is organized as one huge block within which you can create smaller blocks that will be stacked, one on top of the other.</p>
 
-                        <img src="./images/website_block_model.png" /> <!--website block model-->
+                        <img src="./unit1_projects/images/website_block_model.png" /> <!--website block model-->
 
                         <p>However, you can tell these blocks to shrink and move around the page. The simplest way to do this is to give a couple of blocks the display:inline property. The code to do this looks like this:</p>
 
-                        <img src="./images/inline_blocks_code.png" /> <!--display:inline code-->
+                        <img src="./unit1_projects/images/inline_blocks_code.png" /> <!--display:inline code-->
 
                         <p>and it creates this effect on the page:</p>
 
-                        <img src="./images/Inline_blocks.png" /> <!--inline blocks-->
+                        <img src="./unit1_projects/images/Inline_blocks.png" /> <!--inline blocks-->
 
                         <p>So that’s ok. We can do a block, or we can do a bunch of blocks, all in a line like words wrapping down in a text box. These standard blocks have the inherent code position:static, which simply means they have the position they normally get from the page. But that doesn’t give us the cool effects and designs that we routinely see on the web. To get those, we have to make some other changes to our code.</p>
 
@@ -59,19 +59,19 @@
 
                         <p>So say we had this piece of code:</p>
 
-                        <img src="./images/inline_blocks_code.png" /> <!--HTML and CSS creating a few blocks in a page-->
+                        <img src="./unit1_projects/images/inline_blocks_code.png" /> <!--HTML and CSS creating a few blocks in a page-->
 
                         <p>It would create a web site that looks like this:</p>
 
-                        <img src="./images/Inline_blocks.png" /> <!--results of above code-->
+                        <img src="./unit1_projects/images/Inline_blocks.png" /> <!--results of above code-->
 
                         <p>But let’s say we go into that CSS and add this code to it:</p>
 
-                        <img src="./images/RPC.png" /> <!--CSS with relative positioning added-->
+                        <img src="./unit1_projects/images/RPC.png" /> <!--CSS with relative positioning added-->
 
                         <p>Suddenly, our website looks like this:</p>
 
-                        <img src="./images/EORP.png" /> <!--website with shifted block-->
+                        <img src="./unit1_projects/images/EORP.png" /> <!--website with shifted block-->
 
                         <p>The blocks that we had have moved right and down 200 pixels, relative from where it started. That’s really all there is to relative positioning.</p>
 
@@ -81,17 +81,17 @@
 
                         <p>It’s a little difficult to show a clear before and after for position:absolute, since you can position a block anywhere on a page. We'll start from our usual starting point:</p>
 
-                        <img src="./images/inline_blocks_code.png" /> <!--inline blocks code-->
+                        <img src="./unit1_projects/images/inline_blocks_code.png" /> <!--inline blocks code-->
 
-                        <img src="./images/Inline_blocks.png" /> <!--inline blocks-->
+                        <img src="./unit1_projects/images/Inline_blocks.png" /> <!--inline blocks-->
 
                         <p>and make these changes to our CSS:</p>
 
-                        <img src="./images/APC.png" /> <!--CSS code-->
+                        <img src="./unit1_projects/images/APC.png" /> <!--CSS code-->
 
                         <p>And the result: 4 blocks positioned exactly 200 pixels from the left and top, all stacked one on top of the other.</p>
 
-                        <img src="./images/EOAP.png" /> <!--Website with block at 200px from left and right -->
+                        <img src="./unit1_projects/images/EOAP.png" /> <!--Website with block at 200px from left and right -->
 
                         <h4>Position: Fixed</h4>
 
@@ -101,15 +101,15 @@
 
                         <p>Here is an example of the code for this inserted into a larger website:</p>
 
-                        <img src="./images/FPC.png" /> <!--HTML/CSS code-->
+                        <img src="./unit1_projects/images/FPC.png" /> <!--HTML/CSS code-->
 
                         <p>And the resulting website at the top:
 
-                        <img src="./images/EOFP1.png" /> <!-- Website scrolled to top -->
+                        <img src="./unit1_projects/images/EOFP1.png" /> <!-- Website scrolled to top -->
 
                         <p>and the bottom of the screen:</p>
 
-                        <img src="./images/EOFP2.png" /> <!-- Website scrolled to top -->
+                        <img src="./unit1_projects/images/EOFP2.png" /> <!-- Website scrolled to top -->
 
                         <p>As you can see, the main content of the page scrolled down while the sidebar stayed in a fixed position.</p>
 

@@ -32,6 +32,11 @@ h3 {
   margin-top: -25px;
 }
 
+h4 {
+  font-family: "Helvetica";
+  text-align: center;
+}
+
 #sidebar {
   width: 25%;
   font-size: large;
