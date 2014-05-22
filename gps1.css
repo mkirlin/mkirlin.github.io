@@ -1,5 +1,6 @@
 body {
 	background-color: #000066;
+	font-family: "Helvetica"
 }
 
 #header {
@@ -15,5 +16,11 @@ body {
 	margin-right: 25%;
 	border: 1px solid black;
 	border-radius: 25px;
+	padding-top: 20px;
+	padding-left: 35px;
+	padding-right: 35px;
 }
+
+h2 {
+	text-align: center;
 }
