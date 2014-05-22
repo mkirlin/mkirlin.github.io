@@ -45,12 +45,15 @@ h3 {
 .blog {
   width: 60%;
   font-size: large;
-  float: left;
   margin-left: 30px;
   margin-bottom: 30px;
   padding-bottom: 15px;
   background-color: #FFFFFF;
   border-radius: 25px;
+}
+
+#writing {
+  float: left;
 }
 
 #first {
