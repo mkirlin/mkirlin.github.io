@@ -75,3 +75,7 @@ div#sidebar img {
   text-align: center;
   margin-top: -20px;
 }
+
+div#sidebar h3 {
+  margin: none;
+}
