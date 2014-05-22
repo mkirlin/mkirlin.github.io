@@ -37,3 +37,21 @@ a:visited {
 a:hover {
 	color: #80BEE8;
 }
+
+sup {
+	color: black;
+}
+
+.container {
+	position: relative;
+	max-width: 70%;
+	padding: auto;
+	margin: auto;
+}
+
+img {
+	max-width: 90%;
+	max-height: 80%;
+	display: block;
+	margin: 0 auto;
+}
