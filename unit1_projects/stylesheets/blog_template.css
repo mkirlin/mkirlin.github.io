@@ -84,10 +84,10 @@ div#sidebar img {
 
 a:link {
   font-family: "Helvetica";
-  text-decoration: none;
+  color:black;
 }
 a:visited {
-  text-decoration: none;
+  color:black;
 }
 a:hover {
   color: #80BEE8;
