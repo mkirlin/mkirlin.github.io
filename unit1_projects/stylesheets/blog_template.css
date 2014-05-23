@@ -81,3 +81,14 @@ div#sidebar img {
   text-align: center;
   margin-top: -20px;
 }
+
+a:link {
+  font-family: "Helvetica";
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  color: #80BEE8;
+}
