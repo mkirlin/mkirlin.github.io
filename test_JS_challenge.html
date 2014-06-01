@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+  <head>
+    <title>Challenge 5</title>
+  </head>
+  
+  <style type="text/css">
+    #knight {
+      background-color: red;
+      height: 50px;
+      width: 50px;
+      margin-radius: 20px;
+    }
+
+    #princess {
+      background-color: blue;
+      height: 50px;
+      width: 50px;
+      margin-radius: 20px;
+    }
+
+    body {
+      background-color: white;
+    }
+  </style>
+  
+  <body>
+    <div id="knight"></div>
+    <div id="princess"></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    
+    <script>
+      //Rescue mission: our knight saves the princess.
+      //Two objects: knight and princess
+      //Knight should have a name, a position, health, a color, the ability to move
+
+      var knight = {
+        name: "Galahad",
+        Xcord: 0,
+        Ycord: 0,
+        health: 30,
+        color: red,
+        moveRight: function() {
+          this.Xcord = this.Xcord + 20;
+        },
+        moveLeft: function() {
+          this.Xcord = this.Xcord - 20;
+        },
+        moveDown: function() {
+          this.Ycord = this.Ycord + 20;
+        },
+        moveUp: function() {
+          this.Ycord = this.Ycord - 20;
+        },
+      }  
+
+    //Princess should have a name, a position, health, a different color
+
+      var princess = {
+        name: "Peach";
+        Xcord: 300;
+        Ycord: 300;
+        health: 30;
+        color: blue;
+      }
+      
+    //Give knight the ability to move
+    
+    document.onkeydown = checkKey;
+
+      function checkKey(e) {
+
+        e = e || window.event;
+
+        if (e.keyCode == '38') {
+          // up arrow
+          knight.moveUp();
+          
+        }
+        else if (e.keyCode == '40') {
+          //down arrow
+          knight.moveDown();
+        }
+        else if (e.keyCode = '37') {
+          //left
+          knight.moveLeft();
+        }
+        else if (e.keyCode = '37') {
+          //right
+          knight.moveRight();
+        }
+      }
+    
+      //Have a path the knight has to follow
+      
+      
+    </script>
+    
+  </body>
+  
+
