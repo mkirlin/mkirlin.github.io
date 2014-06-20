@@ -29,6 +29,56 @@
 
     		<div class="blog" id="first">
                 <header>
+                    <a href="./unit1_projects/week6_cultural_blog.html"><h1>Stereotype Threat</h1></a>
+                    <h3>20 June 2014</h3>
+                </header>
+            
+                <article>
+
+                    <p>As a white man, I don't think that I have experienced stereotype threat myself, except in a joking fashion. Generally, our society functions in a mode of white male supremacy, which means that even stereotypes about those two identifiers tend towards being gentle. However, I have known people who experienced stereotype threat - a cousin who constantly worries that she's being judged for being black, and who focuses on appearing nonthreatening when she goes out jogging, a friend in undergrad who avoided walking around at night because he was worried about being hassled by the police. I find this heartbreaking, but their precautions are understandable given this nation's history of racism and especially the last few years of violence committed against young black men and women.<p>
+
+                    <p>I doubt that I'm join to feel stereotype threat any time soon. I don't know that there's any good way to respond if someone feeling it; I think it's more important to help create an environment where the danger of stereotype threat is minimized as much as possible. That means creating an environment where racism is called out, where the people in our group actively work to combat bigotry. It means education about the achievements of minority groups and active work to dispel negative stereotypes that contribute to stereotype threat. I think that I can contribute by supporting these efforts when I can and by stepping aside and letting minority leaders take point on these issues while I support them. I think there's a danger when members of the majority take on positions that support minority concerns that the voices of the majority supporters can overwhelm minorities who are directly affected by issues like stereotype threat.</p>                
+                </article>
+            </div>
+
+            <div class="blog">
+                <header>
+                    <a href="./unit1_projects/week6_technical_blog.html"><h1>Variable Scope</h1></a>
+                    <h3>20 June 2014</h3>
+                </header>
+            
+                <article>
+
+                    <h2>What kinds of variables does Ruby support? </h2>
+
+                    <p>Ruby supports 4 different types of variables. They are as follows:</p>
+
+                    <ul>
+                        <li>Global Variables, denoted with a $ sign at the beginning of variable ($var1)</li>
+                        <li>Class Variables: denoted with two @ signs (@@var2)</li>
+                        <li>Instance Variables: denoted with an @ sign (@var3)</li>
+                        <li>Local Variables: any variable that begins with a lowercase letter (var4)</li>
+                    </ul>
+
+                    <h2>Where are they accessible? </h2>
+
+                    <p>Each is accessible at different levels of any given program. The list above displays them in order of accessibility from broadest to narrowest. A global variable is available anywhere throughout the program it is assigned in. It can be accessed by any class or method. A class variable, as could perhaps be predicted from its name, can only be accessed within the class in which it is assigned. They can be described as "global variables within the context of a single class". An instance variable is  a variable that is only available to a single instance of one specific object. Finally, local variables are only available within the method or loop that calls them.</p>
+
+                    <h2>When would you use them and what makes them different? </h2>
+
+                    <p><strong>Global Variables: generally, these should be avoided. Global variables are too easy to mess up - any method that accidentally changes a global variable could break an entire program. Therefore, programmers should avoid using global variables.</strong> </p>
+
+                    <p><strong>Class Variables: these variables are useful tools, in that they give you consistent variables through a class, but they have a downside, which is that they are automatically inherited by any subclasses of the original class, and if they are changed in the subclass, they change in the primogenitor class as well. Because of this, it is usually better to use our next type of variable in classes.</strong> </p>
+
+                    <p><strong>Instance Variables:</strong> these variables are probably the most frequently used and thus possibly the most useful. This has the same useful features as a class variable (which is to say, it lets you set and access variables through every instance of a class) without the inheritance issues that make using class variables a double-edged sword.</p>
+
+                    <p><strong>Local Variables:</strong> this type of variable is useful for quarantining information that you only need in a single method or for reusing common variable names across multiple methods and loops without getting errors. This might not always be best practices - constantly reusing variable names could make your code difficult to read - but judicious use allows you to write multiple snippets of code that do similar things and that benefits from variable names that you used elsewhere.</p>
+
+                </article>
+            </div>
+
+            <div class="blog">
+                <header>
                     <a href="./unit1_projects/week5_technical_blog.html"><h1>Week 5 Technical Blog: the Classiest</h1></a>
                     <h3>14 June 2014</h3>
                 </header>
