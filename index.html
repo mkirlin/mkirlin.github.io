@@ -29,6 +29,51 @@
 
     		<div class="blog" id="first">
                 <header>
+                    <h1>Asking Good Questions</h1>
+                    <h3>13 July 2014</h3>
+                </header>
+            
+                <article>
+
+                    <p>When I first saw the prompt for this week, I wasn unreasonably excited, for all of the wrong reasons. I was excited because I have a tendency to ask the worst questions imaginable, and I am functionally enabled by the fact that many of the people that I am friends with, towards whom I direct these awful questions, have been my friend for so long that they actually understand and are perfectly capable of answering a question like: "Hey, what was that one game, with the stuff like Diablo, but not, and cartoons?", which is a direct quote taken from a chat with a friend, that said friend actually answered more-or-less immediately. So working on asking better questions is definitely an area I need to focus on.</p>
+
+                    <p>To analyze how I tend to ask questions and how I could do so more effectively, I'm going to use an example of a question I asked a friend earlier today when I was having some issues with SQL. This friend isn't a professional programmer, but he's a hobbyist who's been coding for a few years now. He's helped me on a few things, and aside from that, he's a good friend who I've known for a long time. However, the way that I asked my question meant that he couldn't actually understand what was confusing me, and therefore couldn't effectively help me solve my conundrum.</p>
+
+                    <p>Here was my question to him:
+                        <blockquote>Ok, so I’m building a super-simple database. DB of consumer electronics products and their manufacturers. Two tables, one for the manufacturers, one for the devices. I used this website: https://socrates.devbootcamp.com/sql to design a schema for it; I included manufacturer_id as a field in the device table, figuring I would that would be what I link them on.
+
+                        When I’m building tables, do I do anything to link them? Or is that just done by using join commands later?
+                        </blockquote>
+                    I know, it's killing me a little too. This is a terrible question! And it confused him, to the point where he wasn't actually sure what I was asking, and he responded in a confused way, trying to explain the entire concept of JOIN commands to me. So how could I have rephrased that so it would have been a better question?</p>
+
+                    <p>Well, for starters, it must be admitted that I probably could have found the answer on my own. One thing that would improve a lot of question-asking would be better research on the part of the asker. But let us presume that this question was difficult to find the answer to. When I asked it, I didn't really think through exactly how to phrase it, I just sort of regurgitated a stream of thoughts into the text box. That's why the question is all over the place and doesn't get to the actual question until the end. The easiest fix I could have made would have been to reverse the order of the question and the explanation. If he knew what I was asking, the further details, if he asked for them, could have helped him fill in the specifics and craft an answer for me.</p>
+
+                    <p>So that would be the easiest fix, but what about the question itself? Could it have been framed more elegantly? I actually had to do this on the fly, and my rapid refactoring came up with this:
+
+                    <blockquote>I'm more asking if I need to do anything when I'm actually creating the tables to join them, or if joining is exclusively a process performed after the tables already exist.</blockquote>
+
+                    That's a significantly better question. The original question had a lot of extraneous details, then it got to a questions that wasn't particularly well phrased. There wasn't a clear delineation between the options I was presenting; looking back at it, both could plausibly be read to mean virtually the same thing. In the second question, I cut out the extraneous detail preceding the question, made the question itself a little more detailed, and drew a clear contrast between the options I was asking about.</p>
+
+                    <p>I'm still struggling with asking good questions; the question that I used as an example here was asked about 6 hours ago. But asking good questions isn't actually all that difficult. It requires the same things that good communication requires in any setting: patience, the ability and willingness to think through what you say before you say it, and careful consideration for how you craft your message. If you meet those requirements, most of your communication, questions included, will be successful.</p>
+                
+                </article>
+            </div>
+
+            <div class="blog">
+                <header>
+                    <h1>JavaScript Cheatsheet</h1>
+                    <h3>12 July 2014</h3>
+                </header>
+            
+                <article>
+
+                    <p>Here's the <a href="./unit3_cheatsheet.html">JavaScript cheatsheet</a> that I worked on with Stephanie.</p>
+                
+                </article>
+            </div>
+
+            <div class="blog">
+                <header>
                     <a href="./unit1_projects/week8_cultural_blog.html"><h1>Week 8 Cultural Blog</h1></a>
                     <h3>8 July 2014</h3>
                 </header>
@@ -78,15 +123,15 @@
 
                     <p>The initial question, of course, is what test-driven development actually is. The simplest way to describe it is that it is a paradigm of programming wherein the programmer writes tests for code that doesn't exist, then writes code to pass those tests. Of course, even this simple explanation starts to get a little complicated: why or how could you write tests for something that doesn't exist yet? This question, though, brings to light what I believe is the biggest advantage of TDD: it forces you to think things through. I know that I, and I assume many other people writing code, have a tendency to jump into projects. We tend to think that we can hold the entirety of whatever project we are designing in our heads and get everything written, and it is always tempting to just get started. Test-driven development forces you to slow down that process and actually think through your code before you write it. You have to consider what your goals are, and what code you need to meet those goals. Then you can actually start writing the code to meet those specific goals.</p>
 
-                    <p>So the broad outline of test-driven development is that you think, write tests, and then code. But what are the specific steps that a developer must take to follow good practices for TDD? The primary process consists of five steps. They are:</p>
+                    <p>So the broad outline of test-driven development is that you think, write tests, and then code. But what are the specific steps that a developer must take to follow good practices for TDD? The primary process consists of five steps. They are:
 
                     <ol>
-                    <li>Write a test: this is your first step. You write a test that you know will fail. You write this test based on the requirements you have for the program you are writing. Generally you consult user stories and use cases to figure out what those requirements are.</li>
-                    <li>Run the test: it fails. It has to fail on this step. If it passes, either you already have this functionality or you screwed the test up.</li>
-                    <li>Write some code: the basic principle of TDD is that you write the bare minimum code necessary to pass the test. When you write this code, it doesn't need to be pretty, it doesn't need to be perfect, it <em>just needs to pass</em>.</li>
-                    <li>Run the test again: this time, your test should succeed. If it doesn't, return to step 3 and keep writing code until the test passes.</li>
-                    <li>Refactor: this is where you make your code pretty. You clean up variable and method names, move it to where it logically belongs, remove duplication, and generally touch up the code so that it meets your impeccable standards. </li>
-                    </ol>
+                        <li>Write a test: this is your first step. You write a test that you know will fail. You write this test based on the requirements you have for the program you are writing. Generally you consult user stories and use cases to figure out what those requirements are.</li>
+                        <li>Run the test: it fails. It has to fail on this step. If it passes, either you already have this functionality or you screwed the test up.</li>
+                        <li>Write some code: the basic principle of TDD is that you write the bare minimum code necessary to pass the test. When you write this code, it doesn't need to be pretty, it doesn't need to be perfect, it <em>just needs to pass</em>.</li>
+                        <li>Run the test again: this time, your test should succeed. If it doesn't, return to step 3 and keep writing code until the test passes.</li>
+                        <li>Refactor: this is where you make your code pretty. You clean up variable and method names, move it to where it logically belongs, remove duplication, and generally touch up the code so that it meets your impeccable standards. </li>
+                    </ol></p>
 
                     <h2>Why Test-Driven Development?</h2>
 
