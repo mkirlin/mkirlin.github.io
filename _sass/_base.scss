@@ -168,6 +168,7 @@ pre {
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
+
 }
 
 
@@ -201,4 +202,38 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+
+/**
+ * My Additions
+ */
+
+#experience h5, p {
+    display: inline;
+}
+
+#headshot {
+    max-width: 25%;
+    float: right;
+    margin-left: 2%;
+    border-radius: 25px;
+}
+
+.projects {
+    width: 45%;
+    display: inline-table;
+    margin-right: 4%;
+    margin-bottom: 10px;
+}
+
+.projects h4 {
+    margin-top: 3%;
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+
+.project-img {
+    border: 1px solid black;
 }
