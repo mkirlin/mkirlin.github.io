@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>NextCapital To-Dos</title>
+	
+	<!-- Add jQuery and NC jQuery To-Do API -->
+	<script src='client/js/jquery-1.11.1.min.js'></script>
+  <script src='client/js/todo.client.js'></script>
+
+	<!-- Link CSS and JavaScript -->
+	<link rel="stylesheet" type="text/css" href="todo.css">
+	<script src="todo.js"></script>
+
+</head>
+<body>
+
+	<div id="container">
+
+		<div id="welcome" class="view">
+			Ne<img id="nc_logo" src="NC_x_symbol.png" />tCapital To-Dos
+			<br>
+			<div class="button" id="signup-initial">Sign Up</div>
+			<div class="button" id="signin-initial">Sign In</div>
+		</div>
+
+		<div id="signup" class="view">
+			Sign Up
+			<form action="">
+				<input type="text" id="signup-email" placeholder="email">
+				<input type="text" id="signup-password" placeholder="password">
+				<input type="submit" id="signup-submit" value="Submit">
+			</form>
+		</div>
+
+		<div id="signin" class="view">
+			Sign In
+			<form action="">
+				<input type="text" id="signin-email" placeholder="email">
+				<input type="text" id="signin-password" placeholder="password">
+				<input type="submit" id="signin-submit" value="Submit">
+			</form>
+		</div>
+
+		<div id="todo-list" class="view">
+			Here's your to-do list.
+			<span id="signout">Sign Out Button</span>
+		</div>
+
+	</div>
+</body>
+</html>
