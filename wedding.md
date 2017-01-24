@@ -15,3 +15,5 @@ permalink: /wedding/
 ##### "If you wish to make an apple pie from scratch, you must first invent the universe."
 
 ###### BITE ME
+
+HI WE'RE GETTING MARRIED OK BYE
