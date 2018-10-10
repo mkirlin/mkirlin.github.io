@@ -89,7 +89,19 @@
     }
 }
 
+.header-contact {
+    float:right;
+    list-style:none;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin-left:0px;
+    margin-bottom:0px;
+}
 
+.header-contact li {
+    display: inline;
+    padding-left:15px;
+}
 
 /**
  * Site footer
