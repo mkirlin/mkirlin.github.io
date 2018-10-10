@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Michael Kirlin
 ---
 
 Who I Am:
 ---------
-My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technologies in Chicago, IL. I have experience developing, deploying, monitoring, and maintaining a variety of different types of applications, including monolithic APIs, containerized microservices, datapipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.
+My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technologies in Chicago, IL. I have experience developing, deploying, monitoring, and maintaining a variety of applications, including monolithic APIs, containerized microservices, data pipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.
 <br>
 <br>
 
@@ -76,11 +77,9 @@ Education:
 <br>
 19 week intensive web development program.
 <br>
-<br>
 **Creighton University**
 <br>
 *Master of Arts (M.A.) Education 2013*
-<br>
 <br>
 **Creighton University**
 <br>
