@@ -2,10 +2,13 @@
 layout: default
 ---
 
-##Who I Am:
+Who I Am:
+---------
 My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technologies in Chicago, IL. I have experience developing, deploying, monitoring, and maintaining a variety of different types of applications, including monolithic APIs, containerized microservices, datapipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.  
+  
 
-##Skills:
+Skills:
+---------
 **LANGUAGES AND FRAMEWORKS:** Python, Django, Ruby, Rails, Sinatra, JavaScript,  jQuery, Vue (limited), React (limited), HTML, CSS, Bootstrap, Bash  
 
 **DATABASE:** PostgreSQL, MongoDB, MariaDB, MySQL, SQLite3  
@@ -13,8 +16,10 @@ My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technol
 **AWS SERVICES:** RDS, S3, Lambda, DynamoDB, EC2, IAM, ECS, CloudFormation  
 
 **MISCELLANEOUS:** Terraform, Docker, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control  
+  
 
-##Work & Volunteering:
+Work & Volunteering:
+---------
 **HERE Technologies**  
 *Chicago, IL*  
 Senior DevOps Engineer · Oct. 2017 to Current  
@@ -41,9 +46,10 @@ Developer · Jan. 2015 to July 2016
 - Took the lead on exploring and implementing JIRA as a an issue tracking and project management tool
 - Aided in the process of securing AWS MSP Partner status for Turing Group
 - Worked closely with infrastructure team to deploy and monitor production applications
-
-
-##Education:
+  
+  
+Education:
+---------
 **Dev Bootcamp**  
 *Web Development 2014*  
 19 week intensive web development program.  
