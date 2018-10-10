@@ -77,9 +77,11 @@ Education:
 <br>
 19 week intensive web development program.
 <br>
+<br>
 **Creighton University**
 <br>
 *Master of Arts (M.A.) Education 2013*
+<br>
 <br>
 **Creighton University**
 <br>
