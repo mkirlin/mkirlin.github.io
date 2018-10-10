@@ -6,6 +6,7 @@ Who I Am:
 ---------
 My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technologies in Chicago, IL. I have experience developing, deploying, monitoring, and maintaining a variety of different types of applications, including monolithic APIs, containerized microservices, datapipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.
 <br>
+<br>
 
 Skills:
 ---------
@@ -18,7 +19,7 @@ Skills:
 **Miscellaneous:** Terraform, Docker, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control
 <br>
 
-Work & Volunteering:
+Work:
 ---------
 **HERE Technologies**
 <br>
@@ -54,6 +55,18 @@ Developer · Jan. 2015 to July 2016
 - Aided in the process of securing AWS MSP Partner status for Turing Group
 - Worked closely with infrastructure team to deploy and monitor production applications
 
+Volunteering:
+---------
+**The Difference Engine**
+<br>
+*Chicago, IL*
+<br>
+Technical Lead · May. 2018 to Current
+<br>
+- Volunteer at The Difference Engine, an organization that connects non-traditional developers trying to break into tech with non-profits that need web applications
+- Support teams of apprentices as they build web applications for nonprofits
+- Mentor apprentices in technical skills and in various non-technical systems that are used in software development positions.
+
 Education:
 ---------
 **Dev Bootcamp**
@@ -62,9 +75,11 @@ Education:
 <br>
 19 week intensive web development program.
 <br>
+<br>
 **Creighton University**
 <br>
 *Master of Arts (M.A.) Education 2013*
+<br>
 <br>
 **Creighton University**
 <br>
