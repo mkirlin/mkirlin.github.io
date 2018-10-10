@@ -8,9 +8,9 @@ My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technol
 <br>
 Skills:
 ---------
-**Languages and Frameworks:** Python, Django, Ruby, Rails, Sinatra, JavaScript, jQuery, Vue (limited), React (limited), HTML, CSS, Bootstrap, Bash <br><br>
-**Databases:** PostgreSQL, MongoDB, MariaDB, MySQL, SQLite3 <br><br>
-**AWS Services:** RDS, S3, Lambda, DynamoDB, EC2, IAM, ECS, CloudFormation <br><br>
+**Languages and Frameworks:** Python, Django, Ruby, Rails, Sinatra, JavaScript, jQuery, Vue (limited), React (limited), HTML, CSS, Bootstrap, Bash <br>
+**Databases:** PostgreSQL, MongoDB, MariaDB, MySQL, SQLite3 <br>
+**AWS Services:** RDS, S3, Lambda, DynamoDB, EC2, IAM, ECS, CloudFormation <br>
 **Miscellaneous:** Terraform, Docker, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control <br><br>
 <br>
 Work & Volunteering:
