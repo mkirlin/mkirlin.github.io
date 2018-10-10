@@ -18,6 +18,7 @@ Skills:
 <br>
 **Miscellaneous:** Terraform, Docker, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control
 <br>
+<br>
 
 Work:
 ---------
