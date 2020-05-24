@@ -8,22 +8,22 @@ Who I Am:
 ---------
 <img id="headshot" src="assets/img/professional-headshot.jpg"/>
 
-My name is Michael Kirlin, and I am a DevOps engineer, currently at HERE Technologies in Chicago. I have experience developing, deploying, monitoring, and maintaining a variety of applications, including monolithic APIs, containerized microservices, data pipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.
+I am a DevOps engineer currently working at HERE Technologies in Chicago. I have experience developing, deploying, monitoring, and maintaining a variety of applications, including monolithic APIs, containerized microservices, data pipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.
 <br>
 <br>
 
 Skills:
 ---------
-**Languages and Frameworks:** Python, Django, Ruby, Rails, Sinatra, JavaScript, jQuery, Vue (limited), React (limited), HTML, CSS, Bootstrap, Bash
+**Languages and Frameworks:** Python, Django, JavaScript, Vue (limited), React (limited), Bash, HTML, CSS, Bootstrap
 <br>
 <br>
-**Databases:** PostgreSQL, MongoDB, MariaDB, MySQL, SQLite3
+**Databases:** PostgreSQL, MongoDB, MySQL, SQLite3
 <br>
 <br>
-**AWS Services:** RDS, S3, Lambda, DynamoDB, EC2, IAM, ECS, CloudFormation
+**AWS Services:** EC2, Lambda, ECS, S3, RDS, DynamoDB, VPC, CloudFront, Route 53, API Gateway,  CloudFormation, CloudTrail, IAM, Secrets Manager, Certificate Manager, AWS Cost Explorer, SQS, SNS
 <br>
 <br>
-**Miscellaneous:** Terraform, Docker, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control
+**Miscellaneous:** Terraform, Docker, Gitlab, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control
 <br>
 <br>
 
@@ -35,7 +35,8 @@ Work:
 <br>
 Senior DevOps Engineer · Oct. 2017 to Current
 <br>
-- Member of Highly Automated Driving Platform Operations & IT (HAD POIT) team
+- Infrastructure and version control modernization through SRE engagements
+- Create service health dashboards and process automation, incorporating external tools into monitoring systems
 - Manage existing infrastructure and deploys and deploy new applications or application revisions as necessary
 - Create, deploy, and maintain internal applications to monitor infrastructure and applications
 
@@ -69,7 +70,7 @@ Volunteering:
 <br>
 *Chicago, IL*
 <br>
-Technical Lead · May. 2018 to Current
+Technical Lead · May. 2018 to Sept. 2019
 <br>
 - Volunteer at The Difference Engine, an organization that connects non-traditional developers trying to break into tech with non-profits that need web applications
 - Support teams of apprentices as they build web applications for nonprofits
