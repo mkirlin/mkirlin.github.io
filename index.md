@@ -8,16 +8,16 @@ Who I Am
 
 <img id="headshot" src="assets/img/professional-headshot.jpg"/>
 
-I am a DevOps engineer based in Chicago. I have experience developing, deploying, monitoring, and maintaining a variety of applications, including monolithic APIs, containerized microservices, data pipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks. <br>
+I am a DevOps engineer based in Chicago. I have experience developing, deploying, monitoring, and maintaining a variety of applications, including monolithic APIs, containerized microservices, data pipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks. <br> <br>
 
 Skills
 ---------
 
-**Languages and Frameworks:** Python, Django, JavaScript, React, Bash, HTML, CSS, Bootstrap <br>
+**Languages and Frameworks:** Python, Django, JavaScript, React, Bash, HTML, CSS, Bootstrap <br> <br>
 
-**Databases:** PostgreSQL, MongoDB, MySQL, SQLite3 <br>
+**Databases:** PostgreSQL, MongoDB, MySQL, SQLite3 <br> <br>
 
-**AWS Services:** EC2, Lambda, ECS, S3, RDS, DynamoDB, VPC, CloudFront, Route 53, API Gateway, CloudFormation, CloudTrail, IAM, Secrets Manager, Certificate Manager, AWS Cost Explorer, SQS, SNS <br>
+**AWS Services:** EC2, Lambda, ECS, S3, RDS, DynamoDB, VPC, CloudFront, Route 53, API Gateway, CloudFormation, CloudTrail, IAM, Secrets Manager, Certificate Manager, AWS Cost Explorer, SQS, SNS <br> <br>
 
 **Miscellaneous:** Terraform, Docker, Gitlab, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control
 
@@ -26,7 +26,7 @@ Work
 
 **Tegus**\
 *Chicago, IL*\
-Senior DevOps Engineer · March 2022 to Current <br>
+Senior DevOps Engineer · March 2022 to Current <br> <br>
 
 **PayPal**\
 *Chicago, IL*\
@@ -83,10 +83,10 @@ Education
 
 **Dev Bootcamp**\
 *Web Development 2014*\
-19 week intensive web development program <br>
+19 week intensive web development program <br> <br>
 
 **Creighton University**\
-*Master of Arts (M.A.) Education 2013* <br>
+*Master of Arts (M.A.) Education 2013* <br> <br>
 
 **Creighton University**\
 *Bachelor of Arts (B.A.) International Relations and Spanish 2011*
