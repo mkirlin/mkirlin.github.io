@@ -6,14 +6,15 @@ title: Michael Kirlin
 Who I Am
 ---------
 
-![professional-headshot](/assets/img/professional-headshot.jpg)
+<img id="headshot" src="assets/img/professional-headshot.jpg"/>
+<!-- ![professional-headshot](/assets/img/professional-headshot.jpg) -->
 
 I am a DevOps engineer based in Chicago. I have experience developing, deploying, monitoring, and maintaining a variety of applications, including monolithic APIs, containerized microservices, data pipelines, and modern SPAs across a number of technological stacks. I have significant experience with the Amazon Web Services suite of products and a number of backend and frontend languages, tools, and frameworks.
 
 Skills
 ---------
 
-**Languages and Frameworks:** Python, Django, JavaScript, React, Bash, HTML, CSS, Bootstrap
+**Languages and Frameworks:** Python, Django, JavaScript, React, Bash, HTML, CSS, Bootstrap\
 
 **Databases:** PostgreSQL, MongoDB, MySQL, SQLite3
 
@@ -26,7 +27,7 @@ Work
 
 **Tegus**\
 *Chicago, IL*\
-Senior DevOps Engineer · March 2022-Current
+Senior DevOps Engineer · March 2022 to Current
 
 **PayPal**\
 *Chicago, IL*\
