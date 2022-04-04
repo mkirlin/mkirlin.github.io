@@ -19,7 +19,7 @@ Skills
 
 **AWS Services:** EC2, Lambda, ECS, S3, RDS, DynamoDB, VPC, CloudFront, Route 53, API Gateway, CloudFormation, CloudTrail, IAM, Secrets Manager, Certificate Manager, AWS Cost Explorer, SQS, SNS <br> <br>
 
-**Miscellaneous:** Terraform, Docker, Gitlab, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control <br>
+**Miscellaneous:** Terraform, Docker, Gitlab, Test-Driven Development, Object Oriented Design, UI/UX design, Git/Version Control <br> <br>
 
 Work
 ---------
